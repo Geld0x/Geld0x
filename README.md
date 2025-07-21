@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since : 2025<br>📚 I'm currently learning : HTML<br>🎲 Fun fact: I am Furry 🐾 , I use Arch btw</p>
+<p align="center">✨ Creating bugs since : 2025<br>📚 I'm currently learning : HTML<br>🎲 Fun fact: I am Furry 🐾 .</p>
 
 ###
 
@@ -25,13 +25,13 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/blender/F5792A" height="12" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="12" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="12" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="12" alt="python logo"  />
+  <img src="https://cdn.simpleicons.org/blender/F5792A" height="15" alt="blender logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="15" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="15" alt="html5 logo"  />
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="15" alt="python logo"  />
 </div>
 
 ###
