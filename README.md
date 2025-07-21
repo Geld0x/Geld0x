@@ -14,12 +14,6 @@
 
 ###
 
-<div align="right">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="12" alt="linux logo"  />
-</div>
-
-###
-
 <h2 align="center">I work with</h2>
 
 ###
